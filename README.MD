@@ -1,3 +1,6 @@
+
+![Demo](./output.gif)
+
 # Realtime Metrics Dashboard
 
 A personal experiment in **streaming systems, terminal UIs, and realtime data pipelines**.
