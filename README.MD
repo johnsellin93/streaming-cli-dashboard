@@ -1,6 +1,5 @@
 
-![Demo](./output.gif)
-
+<video src="trimmed_full.mp4" autoplay loop muted playsinline controls width="100%"></video>
 # Realtime Metrics Dashboard
 
 A personal experiment in **streaming systems, terminal UIs, and realtime data pipelines**.
