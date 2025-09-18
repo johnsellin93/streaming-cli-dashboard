@@ -1,11 +1,6 @@
 
-<!-- Inline high-quality MP4 demo -->
-<video controls playsinline muted
-       src="https://fx-metrics.com/videos/demo.mp4"
-       style="max-width:100%; height:auto; border-radius:8px;">
-  Your browser does not support the video tag.
-</video>
-
+![Demo](output.gif)
+[![Watch the demo](https://fx-metrics.com/images/demo-thumb.jpg)](https://fx-metrics.com/watch.html)
 # Realtime Metrics Dashboard
 
 A personal experiment in **streaming systems, terminal UIs, and realtime data pipelines**.
