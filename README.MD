@@ -1,5 +1,5 @@
 
-[![Watch the demo](https://fx-metrics.com/images/demo-thumb.jpg)](https://fx-metrics.com/watch.html)
+[![Demo](https://fx-metrics.com/images/demo-thumb.jpg)](https://fx-metrics.com/watch.html)
 # Realtime Metrics Dashboard
 
 A personal experiment in **streaming systems, terminal UIs, and realtime data pipelines**.
