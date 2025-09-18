@@ -1,5 +1,5 @@
 
-[![Demo](https://fx-metrics.com/images/demo-thumb.jpg)](https://fx-metrics.com/videos/demo_mobile.mp4)
+[![Demo](https://fx-metrics.com/images/demo-thumb.jpg)](https://fx-metrics.com/videos/demo.html)
 
 # Realtime Metrics Dashboard
 
