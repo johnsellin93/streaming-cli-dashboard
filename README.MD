@@ -1,5 +1,4 @@
 
-![Demo](output.gif)
 [![Watch the demo](https://fx-metrics.com/images/demo-thumb.jpg)](https://fx-metrics.com/watch.html)
 # Realtime Metrics Dashboard
 
